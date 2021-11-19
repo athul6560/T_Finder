@@ -14,14 +14,6 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="Theme.TFinder.NoActionBar">
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
-    </style>
-
-    <style name="Theme.TFinder.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
-
-    <style name="Theme.TFinder.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
     <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowBackground">@drawable/splash_background</item>
         <item name="android:statusBarColor">@color/white</item>
