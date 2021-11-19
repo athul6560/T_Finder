@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">T Finder</string>
-
+    <string name="recycler_listArrow_desc">Arrow Display</string>
 </resources>
